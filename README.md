@@ -42,3 +42,6 @@
 - 경매 이력 조회
     - 자신의 경매 기록 확인
     - 상품의 경매 기록 확인
+---
+# ERD(Entity Relationship Diagram)
+![auction_server](https://github.com/gamsayeon/Auction-server/assets/75170367/9f721abe-1462-43f1-87ac-b67ad894e8c2)
